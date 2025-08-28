@@ -68,6 +68,8 @@ http://127.0.0.1:5000/
 Upload your audio or video file via the web interface
 The app uses OpenAI Whisper to transcribe the content into text
 Download the resulting transcript in plain text format
+
+
 👤 Author
 
 Alli Chiranjeevi

@@ -71,5 +71,5 @@ Download the resulting transcript in plain text format
 👤 Author
 
 Alli Chiranjeevi
-[🔗 GitHub Profile](https://github.com/ALLI-CHIRANJEEVI)
+[🔗GitHub Profile](https://github.com/ALLI-CHIRANJEEVI)
 
